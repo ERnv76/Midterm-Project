@@ -1,0 +1,24 @@
+p{ 
+	margin-top: 30px;
+	text-indent:20px;
+	color:indianred;
+}
+#blue{
+color:blue;
+font-weight:bold;
+}
+#green{
+color:green;
+}
+table, tr , td{
+border: 1px solid red ;
+  margin-top:20px;
+  margin-left:100px ;
+}
+tr.top{
+	background-color:red;
+	color:white;
+}
+.course{
+	color:red;
+}
